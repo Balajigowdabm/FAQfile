@@ -23,7 +23,7 @@
 		},
 		"New field":{
 			"at": "list",
-			"a": ["What is XYZ?", "How can XYZ work"]
+			"a": ["What is XYZ?", "How can XYZ works branch 1"]
 		}
 	},
 	"suggestions": {
